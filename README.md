@@ -51,6 +51,6 @@ If you do have GNU parallel installed, this will be much faster as the work will
 
 ``jupyter-lab``
 
-5. In the browser window opened in the previous step, open [seg/binarization.py](seg/binarization.py) and execute the entire sheet. This should result in a model in the [model/](model/) directory.
+5. In the browser window opened in the previous step, open [seg/binarization.py](seg/binarization.ipynb) and execute the entire sheet. This should result in a model in the [model/](model/) directory.
 
 6. Execute inference as in the previous section.
