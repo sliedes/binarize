@@ -8,7 +8,7 @@ into this:
 
 ![binarized document](README_assets/3IIArmeij_1_seg.png)
 
-(The original image, and some of the images used to train the model, from the collection of the [Finnish national archive](https://arkisto.fi).)
+(The original image, and some of the images used to train the model, from the collection of the [Finnish National Archive](https://arkisto.fi). See [gallery of results](https://sliedes.kapsi.fi/binarize/) on documents from the National Archive).
 
 ## How to use with the pretrained model
 
